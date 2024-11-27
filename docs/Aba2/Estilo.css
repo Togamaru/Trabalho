@@ -1,0 +1,7 @@
+main{
+    max-width: 350px;
+    padding: 1rem;
+}
+ html,main{
+    height: 100%;
+ }
