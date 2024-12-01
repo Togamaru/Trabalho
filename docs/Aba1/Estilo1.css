@@ -4,14 +4,6 @@ body {
     color: rgb(var(--bs-tertiary-color-rgb));
   }
 
-.marketing .col-lg-4 {
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-  .marketing .col-lg-4 p {
-    margin-right: .75rem;
-    margin-left: .75rem;
-  }
 
   .produto-container{
     display: flex;
@@ -24,4 +16,5 @@ body {
       width: 100%;flex-direction: column;
     }
   }
+ 
   
